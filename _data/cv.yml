@@ -2,96 +2,207 @@
   type: map
   contents:
     - name: Full Name
-      value: Albert Einstein
-    - name: Date of Birth
-      value: 14th March 1879
+      value: Audrey Lumley-Sapanski
     - name: Languages
-      value: English, German
-
-- title: Education
-  type: time_table
-  contents:
-    - title: PhD
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1905
-      description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
-          contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Federal teaching diploma
-      institution: Eidgenössische Technische Hochschule, Zurich, Switzerland
-      year: 1900
-      description:
-        - Description 1.
-        - Description 2.
+      value: English, Italian (B1/B2), Spanish (Basic)
 
 - title: Experience
   type: time_table
   contents:
-    - title: Professor of Theoretical Physics
-      institution: Institute for Advanced Study, Princeton University
-      year: 1933 - 1955
+    - title: Research Fellow and Migration and Displacement Lead
+      year: Feb. 2021-Present
+      institution: The Rights Lab Law and Policy Program, The University of Nottingham (UK)
+      description: In my role, I conduct academic and policy-facing research into the impacts of migration governance on the experiences of forced migrants. My current work focuses on the North and Horn of Africa regions. I explore both the justification for use of migration governance approaches and their sociospatial impacts on migrating populations. I am particularly interested in how these processes differentiate populations and contribute to selective exclusion and disenfranchisement. My work is collaborative intentionally and my role includes responsibility for cultivating relationships with partners and leading large grant submissions.
+
+    - title: Post-doctoral Research Fellow, Urban and Regional Studies
+      institution: Gran Sasso Science Institute, Italy
+      year: Sept. 2018—Feb. 2021
       description:
-        - Description 1.
-        - Description 2.
-        - title: Description 3.
+        - Designing and implementing independent research exploring the impact of participation in the accommodation system in Italy (Bergamo, Turin, and Rome) on humanitarian protection seekers.
+        - Teaching or co-convening one module (20 hour) per semester.
+        - Developing curriculum for new coursework.
+        - Serving as faculty advisor to PhD students.
+        - Delivering research at European facing conferences, meetings and stakeholder events.
+
+    - title: The Pennsylvania State University, University Park, PA (USA)
+      year: Aug. 2012—May 2018
+      description:
+        - title: Graduate Research Assistant, Department of Geography
           contents:
-            - Sub-description 1.
-            - Sub-description 2.
-    - title: Visiting Professor
-      institution: California Institute of Technology, Pasadena, California, US
-      year: 1933
+            - Designing and implementing research tools for data collection on project with Dr Chris Fowler exploring stable diversity in Seattle neighborhoods
+            - Producing published findings in City and Community (2017)
+            - Received Graduate Research Assistant of the Year Award
+        - title: Graduate Teaching Assistant, Department of Geography
+          contents:
+            - Delivering geographic coursework as TA or lecturer
+            - Developing curriculum and implementing
+            - Marking student work and providing feedback
+            - Serving on curriculum development committee advising department on degree design
+
+    - title: Associate Director (2012-2016), Manager (2009-2012), and Case Manager (2008-2009)
+      year: Nov. 2008—May 2016
+      institution: Hearland Alliance, Refugee and Immigrant Community Services (USA)
       description:
-        - Description 1.
-        - Description 2.
+        - Overseeing resettlement programs responsible for resettling up to 450 people annually
+        - Capturing grants and extending funding to support innovating resettlement and training programs, including developing and implementing new vocational training and women’s empowerment programs
+        - Leading the country in jobs placement figures
+        - Administering national workshops on best practices for employment development
 
-    - title: Director
-      institution: Kaiser Wilhelm Institute for Physics, Berlin, Germany.
-      year: 1917-1933
-
-    - title: Professor of Theoretical Physics
-      institution: Karl-Ferdinand University, Prague, Czechoslovakia
-      year: 1911 - 1917
+    - title: Project Liaison
+      year: Sept. 2007-July 2008
+      institution: Etafeni Trust, South Africa
       description:
+        - Etafeni Trust is a community-based clinic that offers participants a jobs training and placement program in addition to wellness and sexual and reproductive health services.
+        - I was responsible for developing the jobs placement program. In that role, I developed employer partners and directly placed individuals in work.
 
-    - title: Associate Professor of Theoretical Physics
-      institution: University of Zurich, Zurich, Switzerland
-      year: 1909 - 1911
+    - title: Teacher and Grade Leader
+      year: June 2005—June 2007
+      institution: Harry S. Truman High School, New York City Board of Education (USA)
+      description:
+        - Teaching students grades 9-12 in world history, economics, and politics
+        - Leading a non-violent intervention course for students with recognized risks
+        - title: Group Leader
+          contents:
+            - Leading groups of 10-15 high school students on study abroad trips lasting 3-5 weeks
+            - Facilitating community service projects in host communities
+            - Liaising with local communities to ensure adequate cross cultural communication and support
 
-- title: Open Source Projects
+    - title: Research Assistant
+      year: Sept. 2004—June 2005
+      institution: American Studies for Research (AIR), Washington D.C.
+      description:
+        - Conducting research funded the No Child Left Behind scheme under the President Bush Administration
+        - Interviewing community members in rural Alaska to understand their opinions of community based schools
+        - Evaluating the impacts of early childhood education programs in urban Cleveland schools based on data collected through interviews, school performance records, and school reports
+
+- title: Education
   type: time_table
   contents:
-    - title: <a href="https://github.com/alshedivat/al-folio">al-folio</a>
-      year: 2015-now
-      description: A beautiful, simple, clean, and responsive Jekyll theme for academics.
+    - title: PhD, Geography
+      institution: The Pennsylvania State University, University Park, PA
+      year: 2018
+      description:
+        - 'Dissertation: Evaluating the Success of the United States Refugee Admissions Program: Refugee Resettlement Experiences in Chicago'
+        - 'Committee: Dr. Christopher S. Fowler (Chair), Prof. Roger Downs, Prof. Stephen Matthews, Prof. Barrett Lee'
 
-- title: Honors and Awards
-  type: time_table
-  contents:
-    - year: 1921
-      items: 
-        - Nobel Prize in Physics 
-        - Matteucci Medal
-    - year: 2029
-      items: 
-        - Max Planck Medal
+    - title: M.S., Masters of Science for Teachers
+      year: 2007
+      institution: Pace University, New York City, NY
+      description:
+        - New York City Teaching Fellows Program
+    - title: B.A., American Studies
+      institution: Williams College, Williamstown, MA
+      year: 2004
+      description:
+        - Bachelors of Arts with Honors
+        - 'Senior Thesis: “Popular Election vs. Merit Appointment?  Judicial Selection Methodology and Its Effect on Racial Representation,” Advisor: Alex Willingham'
 
-- title: Academic Interests
-  type: nested_list
-  contents:
-    - title: Topic 1.
-      items: 
-        - Description 1.
-        - Description 2.
-    - title: Topic 2.
-      items:
-        - Description 1.
-        - Description 2.
-
-- title: Other Interests
+- title: Policy Briefings
   type: list
   contents:
-    - <u>Hobbies:</u> Hobby 1, Hobby 2, etc.
+    - 'Lumley-Sapanski, A. et al (2021). ‘The Impacts of COVID-19 on Human Trafficking in Sudan: A case study of a pandemic in transition’ available at https://www.nottingham.ac.uk/research/beacons-of-excellence/rights-lab/resources/reports-and-briefings/2021/may/the-impact-of-covid-19-on-human-trafficking-in-sudan.pdf '
+    - 'Lumley-Sapanski, A., Schwarz, K. and Valverde Cano, A. (March 2021). ‘The Impact of COVID-19 on Modern Slavery in Sudan: Emerging Findings briefing,’ available https://www.nottingham.ac.uk/research/beacons-of-excellence/rights-lab/resources/reports-and-briefings/2021/march/emerging-findings-sudan.pdf '
+    - 'Lumley-Sapanski, A. et al (2021). ‘The Impact of COVID-19 on Modern Slavery in Sudan,’ https://modernslaverypec.org/research-projects/covid-19-and-modern-slavery-in-sudan'
+
+- title: Submissions to international courts, authoritative bodies, and other inquiries
+  type: list
+  contents:
+    - 'Katarina Schwarz et al., ‘The Role of Organised Criminal Groups with Regard to Contemporary Forms of Slavery’, submission to  the  United  Nations  Special  Rapporteur  on  contemporary  forms  of slavery, including its causes and consequences (16 April 2021). https://www.ohchr.org/EN/Issues/Slavery/SRSlavery/Pages/cfi-role-organised-criminal-groups-slavery.aspx'
+    - 'Lumley-Sapanski, A., Seymour, E., and Schwarz, K. ‘The Nexus between Forced Displacement and Contemporary Forms of Slavery’, submission to the United Nations Special Rapporteur on contemporary forms of slavery, including its causes and consequences (15 March 2021). https://www.ohchr.org/EN/Issues/Slavery/SRSlavery/Pages/ReportHRC48.aspx'
+
+- title: Grants
+  description: I have a portfolio of £1,022,735.15 as PI or Co-I since 2020, including 164,583.45 as PI. My funders include UKRI, intergovernmental organisations, and civil society organisations.
+  type: list
+  contents:
+    - 'PI: International Justice Mission, ‘Cross-Border Forced Labour and Labour Trafficking Study,’ November 2022—December 2023, £153,483.45'
+    - 'Co-I: ESRC Standard Grant, ‘Pathways Through Liberation - Revealing Survivors’ Support Journeys Outside of the UK National Referral Mechanism,’ December 2020 – August 2023, £858,151.70'
+    - 'PI: International Labor Organization, RTA Seed Grant, ‘Points of inflection: Analysis of the impact of Covid-19 on the vulnerabilities of Eritrean refugees face to human trafficking in Sudan,’ August 2021 to June 2022, $10,000'
+    - 'PI: International Organization for Migration, ‘The COVID-19 Impacts on Migration and Migrants from a Gender Perspective,’ July 2021, $1100'
+    - 'Lead Researcher: AHRC AH/V01112X/1, Modern Slavery Covid 19 SPF 2020, ‘The Impacts of COVID-19 on Modern Slavery in Transition: A Case Study of Sudan,’ January – May 2021, £107,915.23'
+    - 'PI: Africana Resource Center, The Pennsylvania State University, ‘Urban Agriculture and the Global South: A study of the fresh produce commodity chain utilized by urban agriculturalists in Philippi Township,’ 2013, $2,000'
+    - 'Academic Enrichment Small Grant Recipient, Penn State, Dept. of Geography, 2014 & 2015'
+    - 'PLACE Lab Research Support, Penn State Dept. of Geography, 2016'
+
+- title: Selected Presentations and Talks
+  type: nested_list
+  contents:
+    - title: Scientific Meetings Organized or Convened
+      items:
+        - Release Event, UKRI/MSPEC project findings ‘The Impact of COVID-19 on Modern Slavery in Sudan’ (May 2021)
+        - 'ROAD TO RECOVERY: Improving the response to contemporary forms of slavery for vulnerable groups, including displaced persons, Virtual Side Event of the 48th Session of the UN Human Rights Council, Office of the United Nations High Commissioner for Human Rights and the Rights Lab, September 2021, (September 2021)'
+
+    - title: Conference Organization
+      items:
+        - 'Session Panelist, Organizer and Chair, ‘Bordering and Exclusion: The implications of migration governance approaches for individual (in)security,’ The Annual Meetings of the American Association of Geographers, New York (February 2022)'
+        - 'Session Panelist, Organizer, and Co-Chair “Understanding Neighborhood Change” Annual Meetings of the American Association of Geographers, Tampa (April 2014)-'
+    - title: Conference Presentations
+      items:
+        - 'Presenter, ‘Impacts of COVID-19 on Women’s Movement: Stalled Reform and Overlapping crises,’ Royal Geographical Society Annual Conference, Newcastle University (September 2022)'
+        - 'Presenter, ‘Points of inflection: Analysis of the impact of Covid-19 on the vulnerabilities Eritrean refugees face to human trafficking in Sudan,’ Generating Evidence to Support the Elimination of Child Labour, Forced Labour and Human Trafficking, An RTA HTRI Conference of the ILO, IPA and IOM, Online (June 2022)'
+        - 'Session Chair, ‘Global Governance Responses to the COVID-19 Pandemic,’ Evidence-Based Solutions for Ending Modern Slavery Academic Conference of the United Nations, Geneva (June 2022)'
+        - 'Session Presenter, "Displacement, the Covid-19 pandemic, and Modern Slavery," Evidence-Based Solutions for Ending Modern Slavery Academic Conference of the United Nations, Geneva (June 2022)'
+        - 'Presenter, ‘Banal Exclusion: How Victim Tropes Limit Referrals and the Identification of Human Trafficking Survivors,’ Annual Meetings of the American Association of Geographers, Online (February 2022)'
+        - 'Presenter, ‘’The power of fear: How fear justified the adoption of a disciplinary model of ‘compulsory integration’ for humanitarian protection seekers in Italy,’’ American Sociological Association Annual Meeting, Online (August 2021)'
+        - 'Presenter, ‘’Humanitarian Migrants, Governance Through Containment, and the Italian Accommodation System,’’ Annual Meetings of the American Association of Geographers, Online (April 2021)'
+        - 'Presenter, “The Survival Job Trap,” International and Internal Migration: Challenges and Opportunities in Europe, Gran Sasso Science Institute, (January 2020)'
+        - 'Presenter, “Continuity: The ubiquity of restrictionist migration policies across political groups in a volatile political structure,” The Migration Conference, Bari, Italy (June 2019).'
+        - 'Presenter, “Refugee Marginalization: The human impact of a policy prioritizing economic self-sufficiency and rapid employment over other aspects of adaptation,” Annual Meetings of the American Association of Geographers, New Orleans (April 2018). '
+        - 'Presenter, “Residential Attainment of Recent Refugee Groups: Refugee Residential Distribution in Chicago Five Years Post Resettlement,” Annual Meetings of the American Association of Geographers, Boston (April 2017).'
+        - 'Presenter, “A Comparative Analysis of Residential Attainment in Recent Refugee Groups: A Study of Housing Location and Type of Bhutanese, Burmese and Iraqi Refugees in Chicago, IL” Annual Meetings of the Society for Applied Anthropologists, Santa Fe (April 2017).'
+        - 'Session Chair and Presenter, Unequal Neighborhoods (2): Refugees, Immigration and Urban Space, Annual Meetings of the American Association of Geographers, Chicago (April 2015).'
+        - 'Presenter, “The Role of Neighborhood in Adaptation: Refugee Resettlement in Chicago’s Northside” Annual Meetings of the Society for Applied Anthropology, Pittsburgh (March 2015)'
+        - 'Presenter, “Evaluating the Effectiveness of Refugee Resettlement: How Much Does Neighborhood Context Matter” Annual Meetings of the American Association of Geographers, Tampa (April 2014)'
+        - '“Alternative Geographies of Poverty in the Global South” Panelist and Presentation, American Association of Geographers Annual Meetings, Los Angeles (April 2013)'
+        - 'Presenter, “Collaborative Initiatives,” National Refugee and Immigrant Conference, Chicago (2011)-'
+    - title: Invited Talks and Interviews
+      items:
+        - 'Invited Panelist, ‘Migration due to climate change,’ Geo-Resolution Conference, National Geospatial Intelligence Agency & Taylor Geospatial Institute, St. Louis, MO (September 2022)'
+        - 'Invited Speaker, ‘Qualitative Methodologies and Research Design,’ Survivor Alliance Leadership Forum (Sept. 2022)'
+        - 'Invited Speaker, ‘Human Trafficking Through an International Lens’ Online Forum, (February 2022) '
+        - 'Interview, ‘The Esther Honig Podcast,’ Meatpacking and refugee resettlement, (Sept. 2021)'
+        - 'Release Event, Research findings ‘The Impact of COVID-19 on Modern Slavery in Sudan’ (May 2021)'
+        - 'Interview, ‘The Survival Job Trap,’ The Philadelphia Inquirer, (March 2021)'
+        - 'Interview, “Transitional Jobs,” Vox Implementation Podcast, (March 2019)'
+        - 'Invited Speaker, “Evaluating the Success of the United States Refugee Admissions Program,” United States Committee on Refugees and Immigrants Executive Directors Meeting, Chicago (February 2018).'
+        - 'Invited Speaker, “The Refugee Crisis”, Presentation at Chicago Public Library, Chicago (February 2016).'
+        - 'Interview, “Illinois Issues: Refugees Seek a Haven in Troubled Times” Peoria Public Radio WCBU 19.9 (February 2016).'
+        - 'Invited Speaker, “Refugee Resettlement Policy and Current Trends” Presentation to the Centre County Chapter of the United Nations Association, State College (December 2015). '
+        - 'Interview, “Refugee Screening Process Before Settling in the United States, ABC News Channel 20, Springfield, IL (November 18, 2015).'
+        - 'Participant, RefugeeONE Press Conference to address Syrian Refugee Crisis in Illinois, Representative for Heartland Alliance, (November 18, 2015).'
+        - 'Presenter, “Urban Agriculture and the Global South: A study of the Fresh Produce Commodity Chain Utilized by Urban Agriculturalists in Philippi Township” Africana Research Center, Pennsylvania State Univ., (September 2015).'
+        - 'Invited Speaker, “Stakeholders and Local Context”, Structuring Refugee Resettlement: Refugee Policy and Resettlement Practice SSAD 46922, University of Chicago, (April 2015).'
+        - 'Invited Speaker, “Collaborative Initiatives” Chicago Jobs Council, Chicago (2011)'
+        - 'Invited Speaker, “Innovative Employment Strategies,” Annual Conference of the United States Committee on Refugees and Immigrants, Washington, D.C. (June 2011)'
+        - 'Invited Speaker, “Best Practices in Employment Strategies and New Initiatives for Refugee Employers,” United States Committee on Refugees and Immigrants, Webinar (2010 and 2012)'
+
+- title: Awards
+  type: list
+  contents:
+    - Student Paper Competition Winner, Ethnic Geographies Specialty Group, Annual Meeting of the American Association of Geographers (2017)
+    - Outstanding Graduate Research Assistant Award, Penn State Dept. of Geography (2016)
+    - “Freedom from Injustice Award,” Heartland Alliance Annual Recognition Award for Outstanding Accomplishment in Mission Driven Work, Chicago (2012)
+    - Lee Jackson Leadership Award, Williams College Track and Field Program, Williams College (2004)
+    - Special Recognition Award for Contribution to the Community of Diversity, Williams College, (2004)
+    - Class of 1976 Alumni Sponsored Internship, Williams College, (2001)
+    - All American and Team Captain Williams Track and Field, Williams College, (2003-2004)
+
+- title: Membership and Invited Participation
+  type: list
+  contents:
+    - Invited Expert Member of the International Labor Organization’s International Advisory Board on Evidence Gap Map on Human Trafficking
+    - Invited Member Modern Slavery Policy and Evaluation Centre Peer Review College
+    - Member, American Association of Geographers
+
+- title: Technical Capacity
+  type: list
+  contents:
+    - ArcGIS
+    - SPSS
+    - Microsoft Suite
+    - NVIVO
+
+- title: Other information
+  type: list
+  contents:
+    - 'Maternity Leave: May 16, 2016—August 15, 2016'
+    - 'Maternity Leave: August 4, 2019—January 4, 2020'
